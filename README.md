@@ -1,9 +1,9 @@
-# My Ainote introduction
+# My Linuxnote introduction
 
 -------
-### This is winnerzr's Ainote.
+### This is winnerzr's Linuxnote.
 
-### It mainly show you some Ai skills,which was learned through studying.
+### It mainly show you some Linux skills,which was learned through studying.
 
 ### Welcome to star and fork.
 
@@ -13,7 +13,7 @@
 
 - ***It is a book powered by [GitBook](https://github.com/GitbookIO/gitbook).***
 
-- ***The software used in the experiment is [Ai](https://www.adobe.com/cn/products/illustrator.html)***
+- ***The software used in the experiment is [Linux](https://zh.wikipedia.org/zh/Linux)***
 
 *Your support is the driving force of my creation.*
 
