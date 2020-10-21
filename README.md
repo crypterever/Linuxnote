@@ -1,6 +1,6 @@
 # My Linuxnote introduction
 
--------
+------
 ### This is winnerzr's Linuxnote.
 
 ### It mainly show you some Linux skills,which was learned through studying.
@@ -23,7 +23,7 @@
 
 ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E6%94%AF%E4%BB%98-blue)
 
-![WeChat](https://gitee.com/zr001/writeimges/raw/master/img/wechat.gif)
+![](https://gitee.com/zr001/writeimges/raw/master/img/wechat.gif)
 
 ![](https://img.shields.io/badge/%E6%94%AF%E4%BB%98%E5%AE%9D-%E6%94%AF%E4%BB%98-blue)
 
